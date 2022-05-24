@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="IPrice:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/IPrice_jar</output-path>
+    <root id="archive" name="IPrice.jar">
+      <element id="module-output" name="IPrice" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/mockito-all-1.9.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/junit-4.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jar_files (2)/commons-beanutils-1.9.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jar_files (2)/commons-collections-3.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jar_files (2)/commons-collections4-4.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jar_files (2)/commons-lang3-3.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jar_files (2)/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jar_files (2)/commons-text-1.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jar_files (2)/opencsv-5.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
